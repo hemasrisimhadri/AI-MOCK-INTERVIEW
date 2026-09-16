@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1786453262189",
+    "name": "Test User",
+    "email": "test@example.com",
+    "password": "$2b$10$9ZjJsR3qwH6XrJejDuDxr.bcOQFVttInZES8c4QaRY6i3DYxYReCi"
+  },
+  {
+    "id": "1786454603670",
+    "name": "Test User",
+    "email": "test2@example.com",
+    "password": "$2b$10$ejjkF5OpLGYvC4yiJ5PgSOIrYt7m22HmDJ3FeZ49ZC1zWmwdZuPbK"
+  },
+  {
+    "id": "1786460101026",
+    "name": "Hema sri ",
+    "email": "simhadrihemasri11@gmail.com",
+    "password": "$2b$10$sPn8pRYMxf15/OsG.dJh1eh87.pXLl.lN6zKwAV5rojLd2VVLJ7Ga"
+  },
+  {
+    "id": "1786462041652",
+    "name": "Hemasri Simhadri",
+    "email": "hemasrisimhadri@gmail.com",
+    "password": "$2b$10$osyQhnG8dTNuD4Ev1PVAM.ly3gPHjD43PeKCn4Nb8y6nqcZsG51lS"
+  },
+  {
+    "id": "1786507213070",
+    "name": "Hema Sri",
+    "email": "test3@example.com",
+    "password": "$2b$10$morop8DQVKr5VnYM53PFouorXs0cbdCh/jheYS134HdXv1sq6ejzG"
+  }
+]
